@@ -1,0 +1,3 @@
+[submodule "jj-sallo"]
+	path = jj-sallo
+	url = https://github.com/jj-sallo/sicp
