@@ -1,3 +1,6 @@
 [submodule "jj-sallo"]
 	path = jj-sallo
 	url = https://github.com/jj-sallo/sicp
+[submodule "4phz"]
+	path = 4phz
+	url = https://github.com/tetraphoz/sicp
